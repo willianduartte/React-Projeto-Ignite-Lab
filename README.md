@@ -1,6 +1,6 @@
 # React-Projeto-Ignite-Lab
 
-<h4 align='center'>Projeto feito apenas para conhecer diversas tecnologias novas como: Apollo, Tailwind e Graphcms, feito durante o evento da<a href="https://app.rocketseat.com.br/" target="_blank" >Rocketseat</a></h4>
+<h4 align='center'>Projeto feito apenas para conhecer diversas tecnologias novas como: Apollo, Tailwind e Graphcms, feito durante o evento da <a href="https://app.rocketseat.com.br/" target="_blank" >Rocketseat</a></h4>
 
 <p align='center'>
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 <img src="./RPG.gif">
 
 <h1 align='center'>
-    <a href="https://react-projeto-jogo-rpg.vercel.app/">Clique aqui para Testar o app</a>
+    <a href="https://react-projeto-ignite-jlfjz55on-willianduartte.vercel.app/">Clique aqui para Testar o app</a>
 </h1>
 
 # Tecnologias
@@ -30,7 +30,7 @@ Para clonar e rodar essa aplicação você precisa ter o [Git](https://git-scm.c
 
 ```bash
 # Clonar o repositorio
-$ git Clone https://github.com/willianduartte/React-Projeto-RPG
+$ git Clone https://github.com/willianduartte/React-Projeto-Ignite-Lab
 
 # com o repositorio selecionado no seu CDM rode
 $ npm install
