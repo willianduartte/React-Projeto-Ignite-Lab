@@ -1,6 +1,6 @@
 # React-Projeto-Ignite-Lab
 
-<h4 align='center'>Projeto feito apenas para conhecer diversas tecnologias novas como Apollo, Tailwind e Graphcms, feito durante o evento Ignite Lab da <a href="https://app.rocketseat.com.br/" target="_blank" >Rocketseat</a></h4>
+<h4 align='center'>Projeto feito apenas para conhecer diversas tecnologias novas como Apollo, Tailwind e Graphcms, feito durante o evento Ignite Lab da <a href="https://app.rocketseat.com.br/" target="_blank" >Rocketseat</a></h4>.
 
 <p align='center'>
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
